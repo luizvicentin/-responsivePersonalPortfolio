@@ -1,7 +1,7 @@
 <h1 align='center'>Loader Animation CSS</h1>
 
 <h1 align="center">
-    <video alt="Loader Animation CSS" src="https://github.com/luizvicentin/loaderAnimationCSS/blob/master/screencast-2020.09.25.webm" />
+    ![gif (1)](https://github.com/luizvicentin/loaderAnimationCSS/blob/master/gif-maker.gif)
 </h1>
 
 <blockquote align="center">“Do your best, but always on time!”</blockquote>
